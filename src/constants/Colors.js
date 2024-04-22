@@ -1,0 +1,15 @@
+export default {
+  light: '#fff',
+  dark: '#000',
+  danger: '#FA5858',
+  success: '#00D26A',
+  warning: '#F1A661',
+  info: '#EBF5F6',
+  gray: '#626161',
+  darkTransparent: 'rgba(0,0,0,0.5)',
+  lightTransparent: 'rgba(255,255,255,0.5)',
+  grey: '#A3A3A3',
+  SECONDARY_PURPLE: '#7F77C7',
+  DEFAULT_WHITE: '#FFFFFF',
+  PRIMARY_PURPLE: '#473E97',
+};
